@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS01SLBS-LJ01A-05-HPIESA101-streamed-echo_sounding
 data_stream: RS01SLBS-LJ01A-05-HPIESA101-streamed-echo_sounding
-end_date: '2021-12-07T06:12:48.839Z'
-last_updated: '2021-12-22T02:56:23.247041'
+end_date: '2022-01-01T02:02:50.106Z'
+last_updated: '2022-01-02T01:36:18.312258Z'
 start_date: '2014-08-28T23:41:42.859Z'
-status: success
+status: pending
